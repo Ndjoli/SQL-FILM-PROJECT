@@ -1,2 +1,1 @@
-# SQL-FILM-PROJECT
-In this project, I utilized SQL to analyze a film company's database, aiming to extract meaningful insights from the data stored in relational tables. The key tasks performed included identifying the variety of films available and analyzing their replacement cost distribution.Next, I focused on understanding how many films fall within specific replacement cost ranges. By grouping the replacement costs into defined intervals, I was able to categorize and count the films within each range. This provided a clear overview of the cost distribution, which is valuable for budgeting, pricing strategies, or inventory replacement planning.
+
